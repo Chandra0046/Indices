@@ -1,4 +1,4 @@
-const apiKey = "cc867123-f9c5-4ff4-810b-510a5fbc626f";  // Replace with your Upstox API key
+const apiKey = "0afce234-885a-425c-bf15-12cd928aea13";  // Replace with your Upstox API key
 const symbol = "NSE_EQ-RELIANCE";  // Change to any stock symbol
 
 async function fetchStockPrice() {
